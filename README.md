@@ -1,8 +1,8 @@
-# OKXOrderSystem
+# OKX Order System
 
 ## Overview
 
-**OKXOrderSystem** is a C++ application that interacts with the OKX cryptocurrency trading platform. The application allows users to perform various trading operations, including placing orders, modifying orders, canceling orders, and retrieving order history.
+**OKXOrderSystem** is a C++ application that interacts with the OKX cryptocurrency trading platform. The application allows users to perform various trading operations, including placing orders, modifying orders, cancelling orders, and retrieving order history.
 
 ## Features
 
@@ -31,7 +31,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/OKXOrderSystem.git
+git clone https://github.com/Jyotish-Kumar29/OKX_Order_System.git
 cd OKXOrderSystem
 ```
 
